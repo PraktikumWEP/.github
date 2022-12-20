@@ -3,5 +3,5 @@
 ### Blatt 1: v1
 ### Blatt 2: v2
 ### Blatt 3: v3
-### Blatt 4: wtp-chat
-### Blatt 5: v5
+### Blatt 4: wtp-chat (Angular)
+### Blatt 5: v5 (PHP)
